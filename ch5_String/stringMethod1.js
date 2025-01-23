@@ -7,8 +7,8 @@ message = "my name is ashu sharma";
 console.log(message.toUpperCase());
 
 /* A string is converted to lower case with toLowerCase(): */
-message = "HELLO WORLD";
-console.log(message.toLocaleLowerCase());
+message = "HELLO WORLD OF JAVASCRIPT";
+console.log(message.toLowerCase());
 
 /* 
 The includes() method returns true if a string contains a specified string.
