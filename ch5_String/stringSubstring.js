@@ -6,3 +6,9 @@
  * The first position is 0, the second is 1, ...
  * A negative number selects from the end of the string.
  */
+
+let text = "Hello world!";
+let result = text.slice(0, 4);
+console.log(result);
+console.log(text.slice(3));
+console.log(text.slice(-5));
