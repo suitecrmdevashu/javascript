@@ -2,6 +2,7 @@
 
 let num1 = 20;
 let num2 = 15;
+var num3 = 50;
 
 console.log(num1 + num2); //add
 console.log(num1 - num2); //sub
